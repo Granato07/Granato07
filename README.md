@@ -8,8 +8,8 @@
 
 - 🔧 Base prática em estruturas de dados (árvores binárias, grafos) através de projetos acadêmicos.
 - 📚 Cursando **Desenvolvimento Back-End com Node.js** pela Alura.
-- 🏗️ Nas férias de julho: construindo projetos pessoais em JavaScript/Node.js — em breve por aqui.
-- 🏀 Fora do código: atleta de basquete pela Atlética do Inatel e ex-Mestre Conselheiro da Ordem DeMolay.
+- 🏗️ Construindo projetos pessoais em JavaScript/Node.js — em breve por aqui.
+
 
 <p align="center">
   <a href="https://linkedin.com/in/danielgranato">
