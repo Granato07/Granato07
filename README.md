@@ -31,8 +31,7 @@ Sistema de gerenciamento de restaurante em grupo (mesas, pedidos, cozinha, relat
 **[Exercícios de Paradigmas — S01](https://github.com/Granato07/S01)** — C++, Java, Python, Prolog, Haskell e mais
 Exercícios explorando 10 linguagens e paradigmas distintos (imperativo, OO, funcional, lógico).
 
-**[Sistema de Notas — POO](https://github.com/Granato07/POO---Inatel)** — Java
-Sistema aplicando encapsulamento e organização em pacotes.
+**[Mini_Projeto]([https://github.com/Granato07/POO---Inatel](https://github.com/Granato07/MiniProjeto_Mobicar-s))** — Site feito para empresa familiar para conhecer mais sobre front end
 
 ## 💻 Linguagens mais usadas
 
